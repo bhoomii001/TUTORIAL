@@ -8,9 +8,9 @@ namespace TUTORIAL
 {
     internal class QUESTION3
     {
-        Public Static Void Main(String[]args)
+        public static void Main(String[]args)
         {
-            Console.Write("hellllooooo classss☺☺")
+            Console.Write("hellllooooo classss☺☺");
         }
     }
 }
